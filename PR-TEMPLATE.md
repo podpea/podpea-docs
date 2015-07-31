@@ -15,13 +15,18 @@
 #### 'Done' checklist:
 **Have the changelog, versions & anything else relevant been updated?**
 
+
 **Has project wiki or other knowledgebase been updated as required?**
+
 
 **Is there appropriate test coverage?**
 
+
 **Does this PR require an integration / E2E test?**
 
+
 **Does this PR require a regression test? (All fixes should have at least one regression test)**
+
 
 **Does this add new dependencies?**
 
